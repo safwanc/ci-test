@@ -6,9 +6,5 @@ compiler:
 script:
   - clang Test.cpp
 
-branches:
-  only:
-    - master
-
 os:
   - osx
